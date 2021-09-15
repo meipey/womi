@@ -1,10 +1,6 @@
 ---
-label: home
+label: nextpage
 fields:
-  - type: text
-    name: tekst
-    label: textmeteenxπ
-    default: Mooie default tekst
   - name: permalink
     type: text
     label: Permalink
@@ -14,7 +10,7 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: home
+    default: nextpage
     config:
       required: true
 display_field: permalink
