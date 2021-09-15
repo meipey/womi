@@ -1,6 +1,10 @@
 ---
 label: nextpage
 fields:
+  - type: text
+    name: tekstblauw
+    label: tekstblauwlabelinStastic
+    default: defaultIn Stastic
   - name: permalink
     type: text
     label: Permalink
