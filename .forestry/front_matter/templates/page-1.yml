@@ -5,8 +5,9 @@ display_field: permalink
 fields:
 - type: text
   name: tekst
-  label: ''
+  label: Dit is label inputfield
   default: Mooie default tekst
+  description: dit is description
 - name: permalink
   type: text
   label: Permalink
