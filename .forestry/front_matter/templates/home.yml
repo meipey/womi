@@ -3,7 +3,7 @@ label: home
 fields:
   - type: text
     name: tekst
-    label: ''
+    label: textmeteenx
     default: Mooie default tekst
   - name: permalink
     type: text
