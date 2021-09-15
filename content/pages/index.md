@@ -1,5 +1,5 @@
 ---
-layout: page-1
+layout: home
 permalink: "/"
 title: home
 tekst: Mooie default tekst
