@@ -1,0 +1,21 @@
+---
+label: page4
+fields:
+  - type: text
+    name: link
+    label: linklabel
+    default: defaulttextlink
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: page4
+    config:
+      required: true
+display_field: permalink
+hide_body: true
