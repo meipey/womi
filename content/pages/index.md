@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: "/"
+permalink: home
 title: home
 tekst: Mooie default tekst
 link: linkLook
