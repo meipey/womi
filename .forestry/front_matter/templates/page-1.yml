@@ -1,6 +1,6 @@
 ---
-label: Page 1
-hide_body: true
+label: Page1
+hide_body: false
 display_field: permalink
 fields:
 - type: text
