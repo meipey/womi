@@ -1,7 +1,8 @@
 ---
 tekst: Mooie default tekst
-link: defaulttextlink
+link: defaulttextlinkop dezeblzPAGE2
 layout: page2
 permalink: "/page2"
+tekstblauw: defaultIn Stastic
 
 ---
