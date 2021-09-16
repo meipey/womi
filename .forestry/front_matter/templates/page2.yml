@@ -5,10 +5,6 @@ fields:
     name: tekst
     label: textmeteenxπ
     default: Mooie default tekst
-  - type: text
-    name: link
-    label: linklabel
-    default: defaulttextlink
   - name: permalink
     type: text
     label: Permalink

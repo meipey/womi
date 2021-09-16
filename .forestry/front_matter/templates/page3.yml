@@ -5,10 +5,6 @@ fields:
     name: tekstblauw
     label: tekstblauwlabelinStastic
     default: defaultIn Stastic
-  - type: text
-    name: link
-    label: linklabel
-    default: defaulttextlink
   - name: permalink
     type: text
     label: Permalink
