@@ -1,7 +1,7 @@
 ---
 tekstblauw: defaultIn Stastic
 layout: page1
-permalink: page1
+permalink: "/page1"
 link: was leegin forestry linklabel
 
 ---
