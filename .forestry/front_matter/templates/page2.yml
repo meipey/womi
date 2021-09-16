@@ -1,6 +1,10 @@
 ---
-label: home
+label: page2
 fields:
+  - type: text
+    name: tekst
+    label: textmeteenxπ
+    default: Mooie default tekst
   - type: text
     name: link
     label: linklabel
@@ -14,7 +18,7 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: home
+    default: page2
     config:
       required: true
 display_field: permalink

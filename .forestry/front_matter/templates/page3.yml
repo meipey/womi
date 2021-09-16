@@ -1,6 +1,10 @@
 ---
-label: home
+label: page3
 fields:
+  - type: text
+    name: tekstblauw
+    label: tekstblauwlabelinStastic
+    default: defaultIn Stastic
   - type: text
     name: link
     label: linklabel
@@ -14,7 +18,7 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: home
+    default: page3
     config:
       required: true
 display_field: permalink
