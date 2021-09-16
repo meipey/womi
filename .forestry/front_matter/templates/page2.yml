@@ -6,6 +6,10 @@ fields:
     label: textmeteenxπ
     default: Mooie default tekst
   - type: text
+    name: link2
+    label: link2label
+    default: Lorem ip
+  - type: text
     name: link
     label: linklabel
     default: defaulttextlink

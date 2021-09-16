@@ -2,6 +2,10 @@
 label: page3
 fields:
   - type: text
+    name: link2
+    label: link2label
+    default: Lorem ip
+  - type: text
     name: tekstblauw
     label: tekstblauwlabelinStastic
     default: defaultIn Stastic
