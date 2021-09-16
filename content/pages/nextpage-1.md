@@ -5,3 +5,6 @@ permalink: "/nextpage"
 link: linkL
 
 ---
+**Nextpagetest**
+
+[link hier in forestry gemaakt](/ "titellink")
