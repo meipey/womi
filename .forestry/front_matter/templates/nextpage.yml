@@ -1,24 +1,21 @@
 ---
 label: nextpage
-hide_body: true
-display_field: permalink
 fields:
-- type: text
-  name: tekstblauw
-  label: tekstblauwlabelinStastic
-  default: defaultIn Stastic
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: nextpage
-  config:
-    required: true
-pages:
-- content/pages/nextpage-1.md
-- content/pages/nextpage.md
+  - type: text
+    name: tekstblauw
+    label: tekstblauwlabelinStastic
+    default: defaultIn Stastic
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: nextpage
+    config:
+      required: true
+display_field: permalink
+hide_body: true
