@@ -21,4 +21,3 @@ fields:
     required: true
 pages:
 - content/pages/home.md
-- content/pages/index.md
