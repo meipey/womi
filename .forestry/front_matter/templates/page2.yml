@@ -1,23 +1,25 @@
 ---
 label: page2
-hide_body: true
-display_field: permalink
 fields:
-- type: text
-  name: tekst
-  label: textmeteenxπ
-  default: Mooie default tekst
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: page2
-  config:
-    required: true
-pages:
-- content/pages/page2.md
+  - type: text
+    name: tekst
+    label: textmeteenxπ
+    default: Mooie default tekst
+  - type: text
+    name: link
+    label: linklabel
+    default: defaulttextlink
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: page2
+    config:
+      required: true
+display_field: permalink
+hide_body: true
