@@ -1,6 +1,6 @@
 ---
 tekstblauw: defaultIn Stastic
-layout: nextpage
+layout: page1
 permalink: "/page1"
 link: was leegin forestry linklabel
 
