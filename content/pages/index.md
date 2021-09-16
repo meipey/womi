@@ -3,9 +3,10 @@ layout: home
 permalink: "/"
 title: home
 tekst: Mooie default tekst
+link: linkLook
 
 ---
-# test 1
+# dit was eentest 1
 
 ***
 
