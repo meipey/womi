@@ -1,7 +1,7 @@
 ---
 tekstblauw: defaultIn Stastic
 link: defaulttextlink
-layout: page3
-permalink: "/page3.md"
+layout: home
+permalink: "/page3/"
 
 ---

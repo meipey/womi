@@ -25,3 +25,4 @@ fields:
     required: true
 pages:
 - content/pages/home.md
+- content/pages/page3.md
