@@ -23,3 +23,5 @@ fields:
   default: page2
   config:
     required: true
+pages:
+- content/pages/page2.md
