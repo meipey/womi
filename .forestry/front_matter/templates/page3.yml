@@ -23,3 +23,5 @@ fields:
   default: page3
   config:
     required: true
+pages:
+- content/pages/page3.md

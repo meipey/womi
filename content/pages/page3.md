@@ -1,7 +1,7 @@
 ---
 tekstblauw: defaultIn Stastic
 link: defaulttextlink
-layout: home
+layout: page3
 permalink: "/page3/"
 
 ---
