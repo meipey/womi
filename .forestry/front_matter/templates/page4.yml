@@ -1,6 +1,10 @@
 ---
 label: page4
 fields:
+  - type: text
+    name: link
+    label: linklabel
+    default: defaulttextlink
   - name: permalink
     type: text
     label: Permalink
