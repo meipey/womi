@@ -1,6 +1,6 @@
 ---
 tekstblauw: defaultIn Stastic
 layout: nextpage
-permalink: "/content/pages"
+permalink: "/page1"
 
 ---
