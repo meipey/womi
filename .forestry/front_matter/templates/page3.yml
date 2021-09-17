@@ -1,29 +1,31 @@
 ---
 label: page3
-fields:
-  - type: file
-    name: logo
-    label: logo
-    default: ''
-  - type: text
-    name: tekstblauw
-    label: tekstblauwlabelinStastic
-    default: defaultIn Stastic
-  - type: text
-    name: link
-    label: linklabel
-    default: defaulttextlink
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: page3
-    config:
-      required: true
-display_field: permalink
 hide_body: true
+display_field: permalink
+fields:
+- type: file
+  name: logo
+  label: logo
+  default: ''
+- type: text
+  name: tekstblauw
+  label: tekstblauwlabelinStastic
+  default: defaultIn Stastic
+- type: text
+  name: link
+  label: linklabel
+  default: defaulttextlink
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: page3
+  config:
+    required: true
+pages:
+- content/pages/page3.md
