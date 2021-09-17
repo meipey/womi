@@ -1,6 +1,10 @@
 ---
 label: page2
 fields:
+  - type: file
+    name: logo
+    label: logo
+    default: ''
   - type: text
     name: tekst
     label: textmeteenxπ

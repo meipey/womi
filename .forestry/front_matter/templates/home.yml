@@ -1,10 +1,18 @@
 ---
 label: home
 fields:
+  - type: file
+    name: logo
+    label: logo
+    default: ''
   - type: text
     name: link
     label: linklabel
     default: defaulttextlink
+  - type: file
+    name: imagehomepage
+    label: imagehomepage
+    default: ''
   - name: permalink
     type: text
     label: Permalink

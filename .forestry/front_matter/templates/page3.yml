@@ -1,6 +1,10 @@
 ---
 label: page3
 fields:
+  - type: file
+    name: logo
+    label: logo
+    default: ''
   - type: text
     name: tekstblauw
     label: tekstblauwlabelinStastic
