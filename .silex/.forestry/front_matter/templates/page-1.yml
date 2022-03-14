@@ -1,0 +1,20 @@
+---
+label: Page 1
+fields:
+  - type: text
+    name: var_name
+    label: dit is een label
+    default: default tekst
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: page-1
+    config:
+      required: true
+hide_body: true
